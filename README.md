@@ -1,4 +1,4 @@
-# javaStudy
+# javaStudyAdvanced
 ### 자바 공부 기록 - 심화편
 #### 자바의 신1,2권을 학습하고 작성한 글입니다.
  <https://search.shopping.naver.com/book/catalog/32482010229?cat_id=50010920&frm=PBOKPRO&query=%EC%9E%90%EB%B0%94%EC%9D%98+%EC%8B%A0&NaPm=ct%3Dlhy78le8%7Cci%3D1cfb2540efffd29b8003a5c8fe1659fcb23bd311%7Ctr%3Dboknx%7Csn%3D95694%7Chk%3D05c2d1565f132b631a49b795ffa1c5cebbc3f79b>
